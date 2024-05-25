@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my personal home automation project.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on tbd.
 
 Tools:
