@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal home automation project.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I’m currently working on my neovim setup.
+- 🌱 I’m currently learning...
 - 👯 I’m looking to collaborate on tbd.
 
 Tools:
